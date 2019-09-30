@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1, figure {
+h1, figure, figcaption {
   text-align:center;
 }
 
@@ -16,5 +16,4 @@ a {
 
 figcaption {
   font-size: 10px;
-  
 }
