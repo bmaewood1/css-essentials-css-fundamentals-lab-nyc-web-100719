@@ -18,9 +18,8 @@ figcaption {
   font-size: 10px;
 }
 
-body p {
+p {
   width: 800px;
-  text-align: center;
 }
 
 #details {
